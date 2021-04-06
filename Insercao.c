@@ -32,7 +32,7 @@ void selection( int *a, int n){
     a[m]= aux;
     }
 }
-//---------------------Main Principal-------------------------
+//---------------------Main de Teste-------------------------
 int main( int argc, char * argv[]){
   int *a = malloc( sizeof(int)*10);
   int i = 0;
